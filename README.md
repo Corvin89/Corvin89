@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alexander Kutsiy | Senior Full-Stack Developer ⚡️
 
-<!--
-**Corvin89/Corvin89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core member of the **Sigmalion Anti-Crisis Squad**. I specialize in technical discovery and engineering complex real-time systems.
 
-Here are some ideas to get you started:
+### 🚀 Key Expertise
+* **Technical Discovery:** Analyzing raw requirements to prevent architectural debt.
+* **Real-time Synchronization:** Implementing high-scale data flows via **SignalR** and WebSockets.
+* **AI Integration:** Building resilient fallback chains for Claude, Gemini, and OpenAI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** TypeScript, JavaScript, C#
+- **Frameworks:** React, Next.js, TanStack Query
+- **Tools:** Drizzle ORM, PostgreSQL, Typesense, CKEditor5
+
+### 📊 Activity
+![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=Corvin89&show_icons=true&theme=tokyonight)
