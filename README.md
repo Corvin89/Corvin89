@@ -13,4 +13,4 @@ Core member of the **Sigmalion Anti-Crisis Squad**. I specialize in technical di
 - **Tools:** Drizzle ORM, PostgreSQL, Typesense, CKEditor5
 
 ### 📊 Activity
-![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=Corvin89&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Corvin89&show_icons=true&theme=tokyonight)
